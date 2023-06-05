@@ -121,7 +121,6 @@ button.design-button
 	border-radius: 15px;
 	font-size: 20px;
 	text-shadow: #b3ecff;
-	margin-bottom: 500px;
 }
 
 button.design-button:hover
@@ -131,4 +130,13 @@ button.design-button:hover
 }
 
 
-
+p.design-function-dos
+{
+	font-size: 30px;
+	text-align: center;
+	margin-top: 20px;
+	font-family: 'IBM Plex Mono', monospace;
+	color: #99e6ff;
+	text-shadow: 5px 5px 10px #b3ecff;
+	margin-bottom: 500px;
+}
