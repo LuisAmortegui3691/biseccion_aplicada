@@ -17,6 +17,8 @@ function myFunction(sw)
 		document.getElementById("fb").value = resultFb;
 		document.getElementById("xi").value = resultXi;
 
+		document.getElementById("iteraciones").innerHTML = "Los años para que la poblacion llegue a los 500 es de aproximadamente " + resultXi + " años";
+
 	}
 	else
 	{
